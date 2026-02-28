@@ -28,8 +28,7 @@ Below is a visualization of the user drop-off across different stages:
 Run the following command in your terminal to clone this repository:
 
 ```bash
-git clone https://github.com/andrewsatyo9/sales-funnel-analysis.git
-cd sales-funnel-analysis
+git clone https://github.com/subbareddychilaka/Sales-funnel-Drop-off-Analysis.git
 ```
 
 ## 🚀 Future Improvements
