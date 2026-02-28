@@ -29,9 +29,4 @@ Run the following command in your terminal to clone this repository:
 
 ```bash
 git clone https://github.com/subbareddychilaka/Sales-funnel-Drop-off-Analysis.git
-```
-
-## 🚀 Future Improvements
-- Investigate reasons for high drop-off rates.
-- Recommend UX changes to improve conversion.
-- Conduct A/B testing to measure the impact of design changes.
+``
