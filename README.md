@@ -21,7 +21,7 @@ These insights indicate a significant drop-off at the payment stage, suggesting 
 ## 📊 Visualization
 Below is a visualization of the user drop-off across different stages:
 
-![Sales Funnel Chart](sales_funnel_chart.png)
+![Sales Funnel Chart](sales_funnel_chart.jfif)
 
 ## 🛠️ How to Run the Analysis
 ### 1️⃣ Clone the Repository
